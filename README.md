@@ -37,7 +37,7 @@ I'm the kind of developer who experiments constantly—exploring new frameworks,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Web Development
 
@@ -89,7 +89,7 @@ I'm the kind of developer who experiments constantly—exploring new frameworks,
 </a>
 
 <a href="https://my-blog-5me.pages.dev/">
-<img src="https://img.shields.io/badge/Blog-0EA5E9?style=for-the-badge&logo=rss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white"/>
 </a>
 
 <!-- Add your portfolio -->

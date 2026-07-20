@@ -9,27 +9,11 @@
 
 ## 🚀 About Me
 
-```python
-class AnchalRawat:
+I’m a backend developer and systems architect who gets genuinely excited about building scalable, production-ready systems with Go, Kubernetes, Docker, and AWS .
 
-    def __init__(self):
-        self.location = "India 🇮🇳"
-        self.role = "Software Developer"
-        self.learning = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Full Stack Development",
-            "System Design"
-        ]
-        self.interests = [
-            "Open Source",
-            "Building Products",
-            "Problem Solving"
-        ]
+My days are spent designing microservices with REST and gRPC APIs, orchestrating cloud infrastructure with Terraform, and optimizing the hell out of CI/CD pipelines—basically, I love making things faster, more reliable, and more elegant under the hood . There’s something deeply satisfying about diving into a gnarly PostgreSQL query optimization or implementing a clever caching strategy with Redis that shaves seconds off response times .
 
-    def current_goal(self):
-        return "Become an exceptional Software Engineer 🚀"
-```
+I’m the kind of person who experiments constantly, always tinkering with new tools and patterns to solve real problems, then figuring out how to productionize those improvements . Whether it’s debugging distributed systems at 2 AM or architecting a new microservice from scratch, I approach every challenge with curiosity and a hands-on mindset that won’t quit until it works beautifully .
 
 ---
 

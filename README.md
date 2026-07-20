@@ -1,28 +1,33 @@
 <h1 align="center">Hi 👋, I'm Anchal Rawat</h1>
-
-<h3 align="center">
-Software Developer | Full Stack Developer | AI Enthusiast | Open Source Learner
-</h3>
+<h3 align="center">Software Developer | AI Enthusiast | Open Source Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+scalable+applications;Full+Stack+%7C+AI+%7C+Cloud;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+cool+things+with+code;AI+%7C+Web+Development+%7C+Open+Source;Always+learning+something+new" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a software developer and systems enthusiast who enjoys building scalable applications — from modern web experiences with **Next.js, React, and TypeScript** to robust backend systems powered by **Go, Node.js, PostgreSQL, Docker, and cloud technologies**.
+I'm a software developer and systems enthusiast who enjoys building scalable applications—from modern web experiences with **Next.js, React, and TypeScript** to robust backend systems powered by **Go, Node.js, PostgreSQL, Docker, and cloud technologies**.
 
-I love working across the full stack, designing responsive user interfaces, building REST and gRPC APIs, optimizing databases, and deploying applications using modern DevOps practices. Whether I'm crafting a polished frontend in Next.js, architecting backend services, or improving development workflows, I enjoy creating software that is fast, reliable, and maintainable.
+I love working across the full stack, designing responsive user interfaces, building REST and gRPC APIs, optimizing databases, and deploying applications with modern DevOps practices. Whether I'm crafting a polished frontend in Next.js, architecting backend services, or streamlining development workflows, I'm always looking for ways to make software faster, cleaner, and easier to maintain.
 
-I'm constantly experimenting with new frameworks, AI tools, cloud platforms, and software architecture patterns to solve real-world problems. From debugging complex issues to building projects from scratch, I enjoy turning ideas into production-ready applications while continuously improving my skills.
+I'm the kind of developer who experiments constantly—exploring new frameworks, AI tools, cloud platforms, and software architecture patterns to solve real-world problems. From debugging complex production issues to building projects from scratch, I enjoy turning ideas into reliable, production-ready applications while continuously learning and improving my craft.
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-<img align="left" width="300" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif?raw=true"/>
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif?raw=true" width="100%">
+
+</td>
+
+<td width="65%">
 
 ### Languages
 
@@ -33,6 +38,72 @@ I'm constantly experimenting with new frameworks, AI tools, cloud platforms, and
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
+### Web Development
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+### AI & Data
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌱 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Backend Development
+- Fullstack Development
+- Cloud Computing
+- Open Source Contribution
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+<a href="https://github.com/Anchalrawat">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Add your LinkedIn -->
+<!--
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+-->
+
+<!-- Add your portfolio -->
+<!--
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
+-->
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my projects, consider giving them a star!
+</p>
 ### Web Development
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
